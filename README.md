@@ -28,12 +28,12 @@ Eu sou apaixonado por dados e tecnologia. Atualmente, estou cursando Engenharia 
 
 ---
 
-## 📂 Projetos
+## 📂Alguns projetos
 
 - [<span style="color:#FF5733">Previsão de Churn com RandomForestClassifier</span>](https://github.com/estevaosmith/Portifolio/blob/main/PROJETO_Churn_Prediction_com_RandomForestClassificator.ipynb)
 - [<span style="color:#C70039">Criação de Playlists com Clustering</span>](https://github.com/estevaosmith/Portifolio/blob/main/PROJETO_Clusters_para_criar_playlists.ipynb)
 - [<span style="color:#900C3F">Classificação para Saúde Fetal com Pycaret</span>](https://github.com/estevaosmith/Portifolio/blob/main/%5BPROJETO%5DClassifica%C3%A7%C3%A3o_para_sa%C3%BAde_fetal_com_Pycaret.ipynb)
-- ##De uma olhada no meu portifolio**
+
 
 ---
 
